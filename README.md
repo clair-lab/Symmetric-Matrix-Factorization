@@ -19,7 +19,9 @@ framework is proposed to solve symmetric matrix factorization
 problems with different constraints on the factor matrices.
 
 **Result**
-<img src='https://github.com/clair-lab/Symmetric-Matrix-Factorization/blob/main/convergence.pdf'/>
+
+![Convergence Plot](/convergence.pdf)
+
 
 **Reproduce results**
 
