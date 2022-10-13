@@ -26,9 +26,15 @@ problems with different constraints on the factor matrices.
 **Reproduce results**
 
 To compare the convergence of multiple methods:
+
 *demo_convergence.m*
 
 To perform clustering on real-world dataset:
+
 *experiment_objective.m*
+
+Implementation of our proposed algorithms with varying constraints:
+
+*maxtrixfac_col.m, maxtrixFac_norm.m, matrixFac_pos_norm.m, matrixFac_pos.m, matrixFac_sparsity.m, matrixFac.m*
 
 
