@@ -26,9 +26,9 @@ problems with different constraints on the factor matrices.
 **Reproduce results**
 
 To compare the convergence of multiple methods:
-run demo_convergence.m 
+*demo_convergence.m*
 
 To perform clustering on real-world dataset:
-experiment_objective.m
+*experiment_objective.m*
 
 
